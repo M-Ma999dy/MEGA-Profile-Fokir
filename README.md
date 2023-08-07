@@ -2,13 +2,11 @@
 -----------------------
 - Author : Mohamed Magdy Metwally
 - Title : Full-Stack Developer Angular2+ / Node.JS
+- https://eng-m-ma9dy.github.io/MAGDY/
 #
 # About Website :
 -----------------------
-- Languages i Used on the Site HTML, CSS
-  
-- This Site just For Training on Use HTML , CSS Only
-- I used (Display Flex, Position, Hover, @media screen) In CSS
+- Languages i Used on the Site HTML, CSS (Display Flex, Position, Hover, @media screen)
 #
 # Website Link :
 ------------------------
