@@ -6,7 +6,7 @@
 #
 # About Website :
 -----------------------
-- Languages i Used on the Site HTML, CSS (Display Flex, Position, Hover, @media screen)
+- Languages i Used in This Site HTML, CSS (Display Flex, Position, Hover, @media screen)
 #
 # Website Link :
 ------------------------
